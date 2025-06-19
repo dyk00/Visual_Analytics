@@ -1,6 +1,7 @@
 # Flightsaver
 
 Flightsaver is a tool developed to help passengers book flights with minimal expected delay.
+This application was developed as part of a group project for the Visual Analytics course at the Eindhoven University of Technology.
 
 ## Installation
 
@@ -50,3 +51,7 @@ To run the application, use the following command:
 ```bash
 python app.py
 ```
+
+## Data
+
+The data used in this application was obtained from the [United States Department of Transportation](https://www.transtats.bts.gov/).
